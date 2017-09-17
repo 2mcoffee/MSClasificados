@@ -13,7 +13,7 @@
 
 <!-- Fuentes de Google -->
 <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
-<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto"> 
 
 <!-- Hojas de Estilo -->
 <link rel="stylesheet" type="text/css" href="./css/main.css" media="screen">
